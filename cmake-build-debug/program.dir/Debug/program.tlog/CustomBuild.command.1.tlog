@@ -1,0 +1,10 @@
+^C:\USERS\DYLAN\CLIONPROJECTS\UNTITLED6\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -SC:/Users/Dylan/CLionProjects/untitled6 -BC:/Users/Dylan/CLionProjects/untitled6/cmake-build-debug --check-stamp-file C:/Users/Dylan/CLionProjects/untitled6/cmake-build-debug/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dylan\CLionProjects\untitled6\explorations_of_ai_written_game\cmake-build-debug\CMakeFiles\bb78bc8bc65fcbf3521dbc796b99f585\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{09D3306D-1C06-3A97-BFB7-90DDFEBFEE5A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
